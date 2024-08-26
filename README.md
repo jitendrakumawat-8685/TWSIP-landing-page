@@ -1,2 +1,2 @@
-# TWSIP-landing-page
-My topper world internship project.
+# landing-page
+My first project of iPhone landing page.
